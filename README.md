@@ -11,7 +11,7 @@ Descrição da Solução
 ## Integrantes
 
 * Walber Gomes Soares 
-* Nome completo do aluno 2 (a preencer)
+* Raquel Lins da Mata
 * Nome completo do aluno 3 (a preencer)
 * Nome completo do aluno 4 (a preencer)
 * Nome completo do aluno 5 (a preencer)
