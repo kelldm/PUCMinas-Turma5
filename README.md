@@ -6,7 +6,7 @@
 
 `Segundo Semestre de 2022`
 
-Criação de um site que forneça dicas, noticias e simulador de economia/investimentos para pessoas que se estão se interresando pelo assunto, ou que já possuem certa experiência no mercado financeiro.
+Descrição da Solução
 
 ## Integrantes
 
